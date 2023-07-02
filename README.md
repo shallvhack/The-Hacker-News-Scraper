@@ -27,7 +27,7 @@ This tool is a powerful web scraping application designed to scrape the latest n
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mymadhavyadav07/The-Hacker-News-Scraper.git
+   git clone https://github.com/shallvhack/The-Hacker-News-Scraper.git
 2. Install dependencies:
    ```bash
    cd The-Hacker-News-Scraper
